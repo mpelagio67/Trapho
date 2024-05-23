@@ -25,5 +25,6 @@ For applications other than the Objective of this project, the Firmware and even
 modified and/or adapted.
 
 TODO LIST:
+
 1- Publish Electronic Schematic for TRAPHO BOARD
 
