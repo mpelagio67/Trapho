@@ -11,7 +11,7 @@ warning sounds, start and stop, etc).
 
 It also has an OLED INTERFACE to visualize those parameters and the winding progress and a Basic 'BEEP' INTERFACE.
 
-Additionally, the TRAPHO BOARD provides additional inputs for connecting extra sensors for future versions of the Firmware and/or 
+Additionally, the TRAPHO BOARD provides 4 extra inputs for connecting extra sensors for future versions of the Firmware and/or 
 to facilitate different future applications of the system in controlling other machines or in industrial automation.
 
 The System also has PWM control to command a power interface and thus control the winding speed of the coil turns 
